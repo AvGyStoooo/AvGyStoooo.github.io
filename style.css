@@ -52,6 +52,7 @@ a{
 
 .project:hover {
     background-color: rgba(30, 10, 40, 0.99);
+    border: 3px solid rgb(255,90,191);
 }
 
 .project img {
